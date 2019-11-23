@@ -1,0 +1,85 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    background-image: url("https://wallpaperaccess.com/full/8621.jpg");
+    background-size: cover;
+}
+
+#instructions {
+    margin: auto;
+    width: 1000px;
+    color: burlywood;
+}
+
+#instructions > h1 {
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 10px;
+    color: burlywood;
+}
+
+#instructions > h2 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: burlywood;
+}
+
+#button-space {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+button, #submit {
+    font-family: 'Share Tech Mono', monospace;
+    border-style: solid;
+    border-color: burlywood;
+    background-color: burlywood;
+    margin-left: 2px;
+    margin-right: 2px;
+
+}
+
+button:active, #submit:active {
+    position: relative;
+    top: 2px;
+}
+
+#button-name {
+    border-style: solid;
+    border-color:burlywood;
+    border-width: 2px;
+}
+
+form {
+    text-align: center;
+    color: burlywood;
+}
+
+input {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+#results {
+    margin: auto;
+}
+
+.response {
+    margin-bottom: 20px;
+    float: left;
+}
+
+.gif {
+    margin: 5px;
+    height: 200px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: burlywood;
+    padding-bottom: 0px;
+}
+
+.rating {
+    text-align: center;
+    color: white;
+}
