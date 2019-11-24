@@ -1,4 +1,4 @@
-var topics = ["Charmander", "Squirtel", "Bulbasaur", "Cyndaquil", "Totodile", "Chickorita", "Torchic", "Mudkip", "Treecko"];
+var topics = ["Charmander", "Squirtel", "Bulbasaur", "Cyndaquil", "Totodile", "Chikorita", "Torchic", "Mudkip", "Treecko"];
 
 function buttonAppend() {
     for (var i = 0; i < topics.length; i++) {
